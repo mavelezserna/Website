@@ -1,1 +1,25 @@
-Conference map
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "Name": "Gilmorehill G12", "Location": "9 University Avenue", "Description": "Conference venue", "marker-color": "#D53D68" }, "geometry": { "type": "Point", "coordinates": [ -4.284347138623, 55.872267790087001, 0.0 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "Name": "University Library", "Location": "Hillhead Street", "Description": "Workshop venue: Jura Lab", "marker-symbol": "library" }, "geometry": { "type": "Point", "coordinates": [ -4.2884351958252, 55.873289880489999, 0.0 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "Name": "An Clachan", "Location": "Kelvingrove Park", "Description": "Cafe", "marker-symbol": "cafe" }, "geometry": { "type": "Point", "coordinates": [ -4.2814741856751, 55.867230330205999, 0.0 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "Name": "The Left Bank", "Location": "Gibson Street", "Description": "Bar/Restaurant", "marker-symbol": "restaurant" }, "geometry": { "type": "Point", "coordinates": [ -4.2826321444275, 55.872368284002, 0.0 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "Name": "Stravaigin", "Location": "Gibson Street", "Description": "Bar/Restaurant", "marker-symbol": "restaurant" }, "geometry": { "type": "Point", "coordinates": [ -4.2822673640014, 55.872512746637, 0.0 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "Name": "Offshore", "Location": "Gibson Street", "Description": "Cafe", "marker-symbol": "cafe" }, "geometry": { "type": "Point", "coordinates": [ -4.2818811259033, 55.872175666319997, 0.0 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "Name": "Tchai Ovna", "Location": "Gibson Street", "Description": "Tea house", "marker-symbol": "cafe" }, "geometry": { "type": "Point", "coordinates": [ -4.2816678, 55.872778, 0.0 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "Name": "Artisan Roast", "Location": "Gibson Street", "Description": "Cafe", "marker-symbol": "cafe" }, "geometry": { "type": "Point", "coordinates": [ -4.282181533313, 55.872284013883998, 0.0 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "Name": "Print and copy shop", "Location": "Gibson Street", "Description": "Printing", "marker-symbol": "shop" }, "geometry": { "type": "Point", "coordinates": [ -4.285078319049, 55.873174860172, 0.0 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "Name": "Bus", "Location": "University Avenue", "Description": "Bus stop for service 4/4A", "marker-symbol": "bus" }, "geometry": { "type": "Point", "coordinates": [ -4.2846024211182, 55.872588846470997, 0.0 ] } }
+
+]
+}
