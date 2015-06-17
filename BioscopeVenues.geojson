@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "id": 0, "properties": {"trade_article_id": 4,"trade_press_date": "1912-08-01","venue_id": 563,"venue_name": "Majestic","st_x"}, "geometry": { "type": "Point", "coordinates": [-4.25827279453838, 55.8378203661468, 0.0 ] } }
+{ "type": "Feature", "id": 0, "properties": {"trade_article_id": 4,"trade_press_date": "1912-08-01","venue_id": 563,"venue_name": "Majestic"}, "geometry": { "type": "Point", "coordinates": [-4.25827279453838, 55.8378203661468, 0.0 ] } }
 
 ]
 } 
